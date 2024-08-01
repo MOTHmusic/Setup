@@ -9,10 +9,10 @@
 [CompressX](https://compressx.app/latest) https://compressx.app/
 
 # Brew Applications
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-Turn Analytics Off
-*brew analytics off*
-*brew install --cask vscodium libreoffice librewolf tailscale dupeguru steam syncthing todoist qbittorrent gimp parsec modrinth discord proton-mail protonvpn proton-drive proton-pass grandperspective*
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" \
+Turn Analytics Off \
+*brew analytics off* \
+*brew install --cask vscodium libreoffice librewolf tailscale dupeguru steam syncthing todoist qbittorrent gimp parsec modrinth discord proton-mail protonvpn proton-drive proton-pass grandperspective* \
 
 [VSCodium](https://github.com/VSCodium/vscodium?tab=readme-ov-file#download-install) \
 [LibreOffice](https://www.libreoffice.org/download/download-libreoffice/) \
