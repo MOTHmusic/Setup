@@ -27,10 +27,6 @@ Turn Analytics Off
 [Parsec](https://parsec.app/downloads) \
 [Modrinth](https://modrinth.com/app) \
 [Discord](https://discord.com/) \
-
-
-
-
 [Proton Mail / Calendar](https://proton.me/mail/download) \
 [ProtonVPN](https://protonvpn.com/download-macos) \
 [Proton Drive](https://proton.me/drive/download) \
