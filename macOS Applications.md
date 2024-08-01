@@ -12,7 +12,7 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 Turn Analytics Off
 *brew analytics off*
-*brew install --cask vscodium libreoffice librewolf tailscale dupeguru syncthing todoist qbittorrent gimp parsec discord proton-mail protonvpn proton-drive proton-pass grandperspective*
+*brew install --cask vscodium libreoffice librewolf tailscale dupeguru syncthing todoist qbittorrent gimp parsec modrinth discord proton-mail protonvpn proton-drive proton-pass grandperspective*
 
 [VSCodium](https://github.com/VSCodium/vscodium?tab=readme-ov-file#download-install) \
 [LibreOffice](https://www.libreoffice.org/download/download-libreoffice/) \
@@ -24,6 +24,7 @@ Turn Analytics Off
 [Qbittorrent](https://www.qbittorrent.org/) \
 [GIMP](https://www.gimp.org/downloads/) \
 [Parsec](https://parsec.app/downloads) \
+[Modrinth](https://modrinth.com/app) \
 [Discord](https://discord.com/) \
 [Proton Mail / Calendar](https://proton.me/mail/download) \
 [ProtonVPN](https://protonvpn.com/download-macos) \
