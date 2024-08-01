@@ -12,23 +12,24 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 Turn Analytics Off
 *brew analytics off*
-*brew install --cask librewolf gimp syncthing discord libreoffice tailscale todoist parsec vscodium dupeguru qbittorrent proton-drive proton-mail proton-pass protonvpn grandperspective*
+*brew install --cask vscodium libreoffice librewolf tailscale dupeguru syncthing todoist qbittorrent gimp parsec discord proton-mail protonvpn proton-drive proton-pass grandperspective*
 
-[LibreWolf](https://librewolf.net/installation/macos/)
-[GIMP](https://www.gimp.org/downloads/)
-[SyncThing](https://syncthing.net/downloads/)
-[Discord](https://discord.com/)
-[LibreOffice](https://www.libreoffice.org/download/download-libreoffice/)
-[TailScale](https://tailscale.com/download/mac)
-[Todoist](https://todoist.com/downloads/mac)
-[Parsec](https://parsec.app/downloads)
-[VSCodium](https://github.com/VSCodium/vscodium?tab=readme-ov-file#download-install)
-[Dupeguru](https://dupeguru.voltaicideas.net/)
-[Qbittorrent](https://www.qbittorrent.org/)
-[Proton Drive](https://proton.me/drive/download)
-[Proton Mail / Calendar](https://proton.me/mail/download)
-[Proton Pass](https://proton.me/pass/download)
-[ProtonVPN](https://protonvpn.com/download-macos)
+[VSCodium](https://github.com/VSCodium/vscodium?tab=readme-ov-file#download-install) \
+[LibreOffice](https://www.libreoffice.org/download/download-libreoffice/) \
+[LibreWolf](https://librewolf.net/installation/macos/) \
+[TailScale](https://tailscale.com/download/mac) \
+[Dupeguru](https://dupeguru.voltaicideas.net/) \
+[SyncThing](https://syncthing.net/downloads/) \
+[Todoist](https://todoist.com/downloads/mac) \
+[Qbittorrent](https://www.qbittorrent.org/) \
+[GIMP](https://www.gimp.org/downloads/) \
+[Parsec](https://parsec.app/downloads) \
+[Discord](https://discord.com/) \
+[Proton Mail / Calendar](https://proton.me/mail/download) \
+[ProtonVPN](https://protonvpn.com/download-macos) \
+[Proton Drive](https://proton.me/drive/download) \
+[Proton Pass](https://proton.me/pass/download) \
+
 
 # Mac Only
 [GrandPerspective](https://grandperspectiv.sourceforge.net/)
