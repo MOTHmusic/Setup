@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Description of your page">
+  <title>Mac-Setup.local</title>
+  <link rel="icon" href="https://yt3.ggpht.com/7gLDSaceFX7Zma6a7rpt4TeCiA732jhAAWjKZEIwH3nJVsU_c31Qz7_un21I_3uvHsZ-dqGq=s88-c-k-c0x00ffffff-no-rj-mo" type="image/x-icon">
+  <link rel="stylesheet" href="Setup-Downloads.css">
+</head>
+<body>
+  <header>
+    <h1>Mac Setup</h1>
+    <p>Applications</p>
+  </header>
+
+  <div class="container">
+    <div class="columb1" id="columb1"></div>
+    <div class="columb2" id="columb2"></div>
+    <div class="columb3" id="columb3"></div>
+    <div class="columb4" id="columb4"></div>
+  </div>
+
+  <div class="bottom">
+    <hr>
+    </p><p> &copy; MOTHmusic, 2022</p>
+  </div>
+
+  <script src="Setup-Downloads.js"></script>
+</body>
+</html>
