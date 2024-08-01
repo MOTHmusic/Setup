@@ -1,11 +1,11 @@
 # Direct download
-[Peazip](https://github.com/peazip/PeaZip/releases/download/9.8.0/peazip-9.8.0.DARWIN.x86_64.zip) https://peazip.github.io/peazip-macos.html
-[Musescore](https://muse-cdn.com/Muse_Hub.dmg) https://musescore.org/en/download
-[reMarkable](https://downloads.remarkable.com/latest/macos) https://downloads.remarkable.com/
+[Peazip](https://github.com/peazip/PeaZip/releases/download/9.8.0/peazip-9.8.0.DARWIN.x86_64.zip) https://peazip.github.io/peazip-macos.html \
+[Musescore](https://muse-cdn.com/Muse_Hub.dmg) https://musescore.org/en/download \
+[reMarkable](https://downloads.remarkable.com/latest/macos) https://downloads.remarkable.com/ \
 [Vencord](https://github.com/Vencord/Installer/releases/latest/download/VencordInstaller.MacOs.zip) https://vencord.dev/download/
 
 ## Mac Only
-[NXPowerLite Mac](https://redirect.neuxpower.com/latest/desktop-mac/setup)
+[NXPowerLite Mac](https://redirect.neuxpower.com/latest/desktop-mac/setup) \
 [CompressX](https://compressx.app/latest) https://compressx.app/
 
 # Brew Applications
@@ -28,7 +28,7 @@ Turn Analytics Off
 [Proton Mail / Calendar](https://proton.me/mail/download) \
 [ProtonVPN](https://protonvpn.com/download-macos) \
 [Proton Drive](https://proton.me/drive/download) \
-[Proton Pass](https://proton.me/pass/download) \
+[Proton Pass](https://proton.me/pass/download) 
 
 
 # Mac Only
