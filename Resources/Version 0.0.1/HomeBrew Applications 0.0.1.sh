@@ -1,5 +1,5 @@
 #!/bin/bash
-# sh "macOS HomeBrew Applications.sh"
+# sh "HomeBrew Applications.sh"
 # macOS Bash Script
 echo "Installing HomeBrew Applications..."
 START_TIME=$(date +%s)
